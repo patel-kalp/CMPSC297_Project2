@@ -1,3 +1,7 @@
+# Project Description
+
+In Project 2, you'll create a viewer for SVG files, which are scaleable image files that don't lose their quality no matter how far you zoom in or out. You'll save these files in a decentralized database using GUN, and pull the data back from a keyword alone. The structure is extremely simple to implement, and both teaches you how to create a project on the React framework, and how to implement GUN databases for easy data storage and retrieval.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
